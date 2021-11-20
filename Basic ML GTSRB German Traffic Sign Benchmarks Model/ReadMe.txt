@@ -4,4 +4,4 @@ Download the dataset and unzip the data and the model is trained using this data
 Here the train data has been split to train and validating and copied to new folder called training_data
 And the test data has been converted in the same format as train datasets. 
 
-for better understanding refer frrecodecamp youtube link
+for better understanding refer frrecodecamp youtube link : https://youtu.be/cPmjQ9V6Hbk
